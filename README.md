@@ -1,3 +1,5 @@
+初始项目代码来自于skyblog, 这里要特别感谢ta做的工作, 本项目基于他的原有代码进行二次开发(学习)
+
 ## Spring cloud 7day simple
 
 **7simple**总共有7个例子，展示了spring cloud的基本用法。
@@ -14,9 +16,10 @@
 
 -------------------
 ### 开发环境
-* IDE：myeclipse 10
-* JDK：jdk1.7
-* WINDOWS：mvn 3
+* IDE: Intellij IDEA
+* JDK: jdk1.7
+* OS:  MAC OS
+* Maven: mvn 3
 
 使用import导入普通工程即可使用
 
@@ -28,8 +31,3 @@
 代码中的nexus可以换成阿里云的：
 http://maven.aliyun.com/nexus/content/groups/public/
 或者在maven里做镜像。
-
--------------------
--------------------
-
-
